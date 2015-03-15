@@ -1,5 +1,20 @@
 <resources>
 
-    <string name="app_name">Test3</string>
+    <string name="app_name">Appointment</string>
+    <string name="button_create">Create Appointment</string>
+    <string name="button_view">View/Edit Appointment</string>
+    <string name="button_delete">Delete Appointment</string>
+    <string name="button_move">Move Appointment</string>
+    <string name="button_search">Search Appointment</string>
+    <string name="button_translate">Translate Appointment</string>
+    <string name="button_delete_all">Delete all appointments for that date</string>
+    <string name="button_select_to_delete">Select appointment to delete</string>
+    
+    <string name="title">Title:</string>
+    <string name="time">Time:</string>
+    <string name="detail">Detail:</string>       
+    
+    
+    
 
 </resources>
